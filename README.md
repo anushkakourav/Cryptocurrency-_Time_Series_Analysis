@@ -14,7 +14,7 @@ py -3.11 -m pip install -r requirements.txt
 
 3️⃣ Download sentiment lexicon (one-time)
 
-py -3.11 -m nltk.downloader vader_lexicon
+python -m nltk.downloader vader_lexicon
 
 4️⃣ Run the app
 
